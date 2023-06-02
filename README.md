@@ -23,3 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Shangpinhui-Shoping-Platform
+# Shangpinhui-Shoping-Platform
